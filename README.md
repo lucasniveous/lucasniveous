@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @lucasniveous
 - 🐍 I love programming in Python
-- 🌟 I currently work on Fundacion Vision
+- 🌟 I currently work at Fundacion Vision
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-centuri%C3%B3n-l%C3%B3pez-601b79183/
 - 🐧 I don't hate Linux, I swear
