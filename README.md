@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Centurión López
+# 👋 Hi, I'm Lucas Centurión
 
 I'm a **Full Stack Developer** working in the **healthcare sector**, currently part of **Fundación Visión**, where I help design and maintain digital systems that enhance patient care and operational efficiency.
 
